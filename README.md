@@ -4,4 +4,6 @@
 
 Confira alguns dos meus trabalhos em Pixel Art! Aqui você encontrará ilustrações, sprites e animações que representam meu estilo e minha evolução como artista.
 
-
+<p align="center">
+  <img src="./assets/marcille.png" alt="Marcille Pixel Art" width="400">
+</p>
